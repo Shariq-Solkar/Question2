@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_DIR = "D:\85_Shariq\Q2"
+        PROJECT_DIR = "D:\\85_Shariq\\Q2"
         TOMCAT_WEBAPPS = "C:\Program Files\Apache Software Foundation\Tomcat 10.1\webapps"
     }
     stages {
